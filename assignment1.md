@@ -13,7 +13,7 @@ __CRITIQUE__
           with a lot of different statistics and numbers on the same column (3/5).<p>
           I would say to stick to a more simple layout in the column chart, don't pack too many statistics into a single column.
 <p> (4.5/5) - I think the data looks mostly accurate. The Chronicle commissioned data-extraction companies Connotate Inc. and Import.io to harvest San Francisco information from the Airbnb, HomeAway and FlipKey websites on May 19. Connotate also extracted Airbnb listing data for The Chronicle on the same date in 2014, allowing for insights about year-over-year changes. This suggests a wide range of data over an extended period of time. They clearly explained the source of the data and explained how they extracted it.
-  <p> The reporter might have also checked with other rental companies, hotels, etc. to compare air bnb data with<p/>
+  <p> The reporter might have also checked with other rental companies, hotels, etc. to compare air bnb data with.<p/>
   
 __Quality__
 <p> (4/5) - I would say this is pretty high quality. Including an interactive map was a good decision for this particular story so readers can observe changes over 
