@@ -34,3 +34,8 @@ High Rates of COVID-19 Outbreaks Observed at DC K-12 Schools
 
 ### Nutgraph 
 With children under the age of 12 still not eligible to be vaccinated for COVID-19, K-12 schools are observing higher instances of outbreaks of the virus than settings in which the typical population is older and thus eligible to be vaccianted, resulting in higher vaccination rates. 
+
+[Excel Workbook](https://github.com/Jeannie-Michele/datavisualization-fall2021/files/7469874/DC_COVID-19_Outbreaks.xlsx)
+
+
+
